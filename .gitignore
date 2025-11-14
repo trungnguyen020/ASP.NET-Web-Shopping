@@ -1,0 +1,15 @@
+
+*.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+**/bin/
+**/obj/
+
+appsettings.Development.json
+secrets.json
+
+*.log
+*.DS_Store
